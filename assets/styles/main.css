@@ -1,0 +1,55 @@
+.cookie {
+  color: 	#954535;
+  font-family: cursive;
+}
+
+body{
+  font-family: arial;
+  text-align: center;
+}
+li{
+  list-style: none;
+}
+
+.butter{
+  color:red;
+}
+
+.brown-sugar{
+  color:blue;
+}
+
+.sugar{
+  color:green;
+}
+
+.milk{
+  color:yellow;
+}
+
+.eggs{
+  color:purple;
+}
+
+.vanilla{
+ color:pink;
+}
+
+.powder{
+color:orange;
+}
+
+.flour{
+color: brown;
+}
+
+.salt{
+  color: #408000
+}
+.chips{
+  color: #990000
+
+}
+.baking-soda{
+  color: black;
+}
